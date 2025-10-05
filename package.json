@@ -1,0 +1,43 @@
+{
+  "name": "merdivenbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@mathieuc/tradingview": "github:Mathieu2301/TradingView-API",
+    "@ngrok/ngrok": "^1.5.2",
+    "@vlad-yakovlev/telegram-md": "^2.0.0",
+    "axios": "^1.8.4",
+    "better-sqlite3": "^11.10.0",
+    "bottleneck": "^2.19.5",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "html-entities": "^2.6.0",
+    "js-priority-queue": "^0.1.5",
+    "luxon": "^3.7.1",
+    "moment": "^2.30.1",
+    "node-cron": "^4.2.1",
+    "node-fetch": "^2.7.0",
+    "onnxruntime-node": "^1.22.0-rev",
+    "openai": "^5.7.0",
+    "puppeteer": "^24.6.1",
+    "rotating-file-stream": "^3.2.6",
+    "write-file-atomic": "^6.0.0",
+    "ws": "^8.18.1",
+    "xml2js": "^0.6.2",
+    "yahoo-finance2": "^2.13.3"
+  },
+  "devDependencies": {
+    "node-dev": "^8.0.0",
+    "nodemon": "^3.1.9"
+  }
+}

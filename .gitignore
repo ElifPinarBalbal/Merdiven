@@ -1,0 +1,13 @@
+.env
+.DS_STORE
+node_modules/
+news_main/storage/
+algolab/core/hash.json
+algolab/core/sms_code.json
+algolab/core/token.json
+algolab/storage/
+debug/
+logs/
+package-lock.json
+simulation.db
+portfolio.db
