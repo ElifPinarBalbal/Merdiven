@@ -485,10 +485,10 @@ Botun kurulumunu 4 başlık altında inceliyoruz:
 1. Öncelikle Telegram API ile iletişim kurabilmek için HTTPS bağlantısı gerekmektedir. Bu HTTPS bağlantısını [ngrok](https://ngrok.com/) kullanarak sağlayabiliriz. Ngrok ücretsiz bir şekilde bize HTTPS (secure) tünel ve public ip sağlayarak API ile iletişim kurmamızı mümkün kılıyor.
 2. **Ngrok hesabı oluşturun.** Web sitesinde yer alan adımları takip edin. (Özellikle *Run the following command to add your authtoken* komutunu girmeyi unutmayın).
 
-	Şöyle bir komut olması lazım:
+	Şöyle bir komut:
 	`ngrok config add-authtoken [çok uzun bir token]`
 	
-3. **Telegram Botu oluşturun.** Telegram Botu oluşturmak her kullanıcı için ücretsiz ve çok kolay. @BotFather adlı kullanıcıya (bu bir ***resmi Telegram kullanıcısıdır,*** Bot hesabı oluşturmak için kullanılıyor) mesaj atın ve Botunuzu oluşturun. Botun vereceği API Token'ı kopyalayın. [Bu videodan yararlanabilirsiniz.](https://www.youtube.com/watch?v=COLDiMlmcoI)
+4. **Telegram Botu oluşturun.** Telegram Botu oluşturmak her kullanıcı için ücretsiz ve çok kolay. @BotFather adlı kullanıcıya (bu bir ***resmi Telegram kullanıcısıdır,*** Bot hesabı oluşturmak için kullanılıyor) mesaj atın ve Botunuzu oluşturun. Botun vereceği API Token'ı kopyalayın. [Bu videodan yararlanabilirsiniz.](https://www.youtube.com/watch?v=COLDiMlmcoI)
 	 
 	 Şöyle bir API TOKEN olması lazım: `27389472938:Hsdhpoewf972HSDJSxhJAH`
 
@@ -555,6 +555,8 @@ TRADINGVIEW_SIGNATURE=[TradingView Signature]
 BUY_LIMIT=[Hisse Başı Maksimum Alım Limiti]
 
 IS_LIVE=true
+
+NGROK_AUTHTOKEN=[Ngrok Authtoken]
 ```
 
 7. İnternet bağlantınız olduğundan - *Türkiye'de olduğunuzdan (VPN vs. olmamalı)* - emin olduktan sonra artık botu çalıştırabiliriz. Ancak Telegram için bir yetkilendirme işlemi yapmalıyız, bunun için botu önce bir defa çalıştırarak daha sonra yeniden başlatacağız. Aşağıdaki adımları takip edin:
