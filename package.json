@@ -27,7 +27,6 @@
     "moment": "^2.30.1",
     "node-cron": "^4.2.1",
     "node-fetch": "^2.7.0",
-    "onnxruntime-node": "^1.22.0-rev",
     "openai": "^5.7.0",
     "puppeteer": "^24.6.1",
     "rotating-file-stream": "^3.2.6",
