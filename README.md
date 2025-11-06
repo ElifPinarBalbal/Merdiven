@@ -6,18 +6,22 @@ Merhaba 👋
 
 Merdiven Bot'a hoşgeldiniz. Merdiven, Türkiye'nin (*Ağustos 2025 için*) ilk **Yapay Zeka ve Algoritmik İşlem** (teknik indikatörler) kullanarak tam otomatik biçimde işlem yapabilen açık kaynak robotudur.
 
-
 <div align="center">
-<img src="https://github.com/user-attachments/assets/0f6f9e03-407c-45ea-a3c5-8bf458415a6b" alt="FROTO" width="200">
-<img src="https://github.com/user-attachments/assets/9d277318-db4c-4a9f-9c5f-ffbebfd09817" alt="FAST-TRANSACTIONS" width="200">
-<img src="https://github.com/user-attachments/assets/88562e56-156d-4ea0-b3cd-4c0ffa887ab7" alt="EKGYO" width="200">
+<img src="https://github.com/user-attachments/assets/1e7ebef0-260d-44f1-b4b1-7646c0575072" alt="INTRO" width="250">
 </div>
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/d794cc99-6bc6-4be1-bd06-f4d3a04ac7ca" alt="HABERLER" width="200">
-<img src="https://github.com/user-attachments/assets/0aaa767a-81c4-49fc-ac84-0c40cd08318e" alt="BYPASSES" width="200">
-</div>
 
+
+İçindekiler:
+1. [Bio İletişim](#1-bi̇o--i̇leti̇şi̇m)
+   
+2. [Modüller ve Sistem](#2-modüller-si̇stem)
+	- [I. AlgoLab + DenizBank](#i-algolab--denizbank-web-sitesi)
+	- [II. İndikatörler](#ii-i̇ndikatörler)
+	- [III. Telegram](#iii-telegram)
+	- [IV. Haberler Manşetler](#iv-haberler-manşetler)
+
+3. [Kurulum](#3-kurulum)
 
 \
 👇
@@ -50,6 +54,23 @@ Projenin nasıl çalıştığını anlamak için bu notun tamamını okumanızı
 \
 \
 ❤️ Umarız tüm öğrencilere, yazılım dünyasına, yatırımcılara ve ilgililere faydası dokunur.
+
+<div>
+<img width="400" alt="Screenshot 2025-11-06 at 23 05 59" src="https://github.com/user-attachments/assets/edca7a77-8f0f-4389-8efa-6d4e98da4d05" />
+</div>
+
+<div>
+<img width="200" alt="Screenshot 2025-11-06 at 23 08 30" src="https://github.com/user-attachments/assets/82e3831f-573c-41bb-8f30-88fc45d5635d" />
+<img width="200" alt="Screenshot 2025-11-06 at 23 09 22" src="https://github.com/user-attachments/assets/e11ae5f4-dc05-4994-a862-ad0fa9534b63" />
+</div>
+
+
+<div>
+<img src="https://github.com/user-attachments/assets/0f6f9e03-407c-45ea-a3c5-8bf458415a6b" alt="FROTO" width="200">
+<img src="https://github.com/user-attachments/assets/9d277318-db4c-4a9f-9c5f-ffbebfd09817" alt="FAST-TRANSACTIONS" width="200">
+<img src="https://github.com/user-attachments/assets/d794cc99-6bc6-4be1-bd06-f4d3a04ac7ca" alt="HABERLER" width="200">
+<img src="https://github.com/user-attachments/assets/0aaa767a-81c4-49fc-ac84-0c40cd08318e" alt="BYPASSES" width="200">
+</div>
 
 \
 👇
