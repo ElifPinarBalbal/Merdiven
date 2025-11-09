@@ -1,10 +1,10 @@
 
-<h1 align="center">Merdiven Project: Türkiye'nin ilk açık kaynak hisse robotu.</h1>
+<h1 align="center">Merdiven Project: Borsa İstanbul (BIST) için açık kaynak hisse robotu</h1>
 
 Merhaba 👋
 
 
-Merdiven Bot'a hoşgeldiniz. Merdiven, Türkiye'nin (*Ağustos 2025 için*) ilk **Yapay Zeka ve Algoritmik İşlem** (teknik indikatörler) kullanarak tam otomatik biçimde işlem yapabilen açık kaynak robotudur.
+Merdiven Bot'a hoşgeldiniz. Merdiven, Türkiye'nin (*Ağustos 2025 için*) ilk **Yapay Zeka ile Haber Analizi ve Algoritmik İşlem** (teknik indikatörler) kullanarak tam otomatik biçimde işlem yapabilen açık kaynak robotudur.
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/1e7ebef0-260d-44f1-b4b1-7646c0575072" alt="INTRO" width="250">
